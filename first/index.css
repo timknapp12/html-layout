@@ -1,0 +1,27 @@
+.main_header {
+    height: 20vh;
+    width: 100%;
+    background-color: gray;
+}
+
+.vertical {
+    height: 1000px;
+    width: 20vh;
+    background-color: lightgrey;
+}
+
+#left_block {
+    float: left;
+}
+
+#right_block {
+    float: right;
+}
+
+.footer {
+    width: 1100px;
+    height: 20vh;
+    background-color: gray;
+    vertical-align: center;
+    margin-top: 867px;
+}
